@@ -1,1 +1,17 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+}
+.tag-1 {
+    background: url(../images/tag-1.png) no-repeat;
+    z-index: none;
+    display: none;
+}
+div {
+    display: none;
+}
+html {
+    font-family: none;
+    -ms-text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+}
